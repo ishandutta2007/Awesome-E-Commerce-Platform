@@ -54,9 +54,9 @@ The sector is **moderately fragmented**: enterprise suites and all-in-one SaaS g
 
 ## 💻 Open-Source & Self-Hosted E-Commerce Platforms
 
-*Full-featured shopping carts, monoliths, and modular storefronts sorted in descending order by GitHub Stars.*
+*Full-featured shopping carts, monoliths, and modular storefronts sorted in descending order by GitHub_Stars.*
 
-| Platform | Stars | Tech Stack | License | Key Features |
+| Platform | GitHub_Stars | Tech Stack | License | Key Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP / Laravel / Vue.js | MIT | Feature-packed open-source e-commerce platform built on Laravel with multi-inventory, multi-currency, and marketplace add-ons. |
 | **[Spree Commerce](https://github.com/spree/spree)** | [![Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) | Ruby on Rails | BSD-3-Clause | Battle-tested, modular open-source e-commerce framework optimized for multi-storefronts, B2B portals, and marketplace platforms. |
@@ -73,9 +73,9 @@ The sector is **moderately fragmented**: enterprise suites and all-in-one SaaS g
 
 ## 🔌 Headless & Composable Modern Engines
 
-*API-first, microservice-ready headless commerce frameworks sorted in descending order by GitHub Stars.*
+*API-first, microservice-ready headless commerce frameworks sorted in descending order by GitHub_Stars.*
 
-| Platform | Stars | Tech Stack | License | Key Features |
+| Platform | GitHub_Stars | Tech Stack | License | Key Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Node.js / TypeScript | MIT | High-performance modular headless commerce engine often dubbed "the open-source Shopify alternative for developers." |
 | **[Saleor](https://github.com/saleor/saleor)** | [![Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) | Python / Django / GraphQL | AGPL-3.0 | Ultra-fast headless composable commerce engine with native GraphQL APIs, PWA storefronts, and multi-channel fulfillment. |
